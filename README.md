@@ -181,6 +181,10 @@ Production-ready framework for deploying, evaluating, and monitoring LLM-powered
 💼 **LinkedIn:** Coming Soon 
 🌐 **Portfolio:** Coming Soon
 
-<div align="center"> 
-  ### "Turning AI research into real-world impact." 
+<div align="center">
+
+### "Turning AI research into real-world impact."
+
 </div>
+
+
