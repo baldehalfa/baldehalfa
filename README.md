@@ -14,7 +14,13 @@ Building AI-powered products that solve real-world problems.
 
 ## 🧠 About Me
 
-I am an AI Research Engineer focused on building intelligent systems that bridge cutting-edge research and real-world applications.
+I am an AI Research Engineer and PhD Researcher working on the extraction and analysis of unstructured data within Electronic Document Management Systems (EDMS).
+
+My research combines Natural Language Processing, Information Retrieval, Large Language Models, and Knowledge Management to transform enterprise documents into actionable knowledge.
+
+Alongside my academic work, I build production-grade AI systems involving Retrieval-Augmented Generation (RAG), MLOps, LLMOps, and Agentic AI architectures.
+
+I build intelligent systems that bridge cutting-edge research and real-world applications.
 
 My interests span across:
 
@@ -26,6 +32,56 @@ My interests span across:
 * 📊 Data Engineering & Machine Learning
 
 I enjoy designing scalable AI solutions that move from experimentation to production and generate measurable impact.
+
+---
+
+## 🎓 Research
+
+### PhD Researcher in Artificial Intelligence
+
+My doctoral research focuses on:
+
+**Extraction and Analysis of Unstructured Data in Electronic Document Management Systems (EDMS)**
+
+Research areas include:
+
+* Intelligent Document Processing (IDP)
+* Natural Language Processing (NLP)
+* Information Extraction
+* Knowledge Discovery
+* Large Language Models for Document Understanding
+* Semantic Search and Retrieval
+* Retrieval-Augmented Generation (RAG)
+* Enterprise Knowledge Management
+
+### Research Objectives
+
+* Automate extraction of information from unstructured documents
+* Improve document classification and indexing
+* Develop semantic search capabilities for enterprise repositories
+* Leverage LLMs for knowledge extraction and document understanding
+* Enhance decision-making through intelligent document analytics
+
+---
+
+## 📚 Publications
+
+### Selected Publications
+
+#### Publication Title 1
+
+Authors, Conference/Journal, Year
+
+
+> Full publication list available upon request.
+
+---
+## 🔬 Research Projects
+
+📄 Intelligent Document Processing for EDMS
+🔍 Semantic Enterprise Search using RAG
+🧠 Knowledge Graph Construction from Unstructured Documents
+🤖 LLM-based Information Extraction Pipelines
 
 ---
 
