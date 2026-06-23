@@ -55,15 +55,11 @@ My doctoral research focuses on developing intelligent systems that extract, str
 
 ### Selected Publications
 
-- **Title of Paper 1**
-  - Authors: Your Name, Co-authors
-  - Journal / Conference, Year
+- **Advanced Hierarchical Classification Approach for Document Categorization**
+  - Authors: Mamadou Alpha Hawa Balde; Pirlouit Dumez; Meriam Belgaroui; Guillaume Prevost; Salah Zidi
+  - Conference: IEEE Afro-Mediterranean Conference on Artificial Intelligence (AMCAI), 2026
+  - - DOI: [10.1109/AMCAI66110.2025.11474373](https://doi.org/10.1109/AMCAI66110.2025.11474373)
 
-- **Title of Paper 2**
-  - Authors: Your Name, Co-authors
-  - Journal / Conference, Year
-
-> Full list of publications available upon request.
 
 ---
 
